@@ -1,0 +1,12 @@
+Actualmente el gobierno est ́a haciendo un esfuerzo para contribuir en la transformaci ́on
+digital del pa ́ıs. Con tu experiencia y habilidades actuales, ¿qu ́e soluciones basadas en ciencia
+de datos propones que sean posibles de implementar y que beneficien a la sociedad mexicana?
+Indica los datos que usar ́ıas para estas soluciones planteadas.
+
+Uno de los problemas que es difícil de visibilizar en la Ciudad de México
+es el acoso, que se ha vuelto cada vez más común y conocido como un problema
+constante. Para abordar este problema, se podría realizar un estudio de las 
+áreas de la ciudad donde ocurren estos delitos. Una vez identificadas estas áreas,
+se podrían aplicar técnicas de clustering para determinar los patrones y características
+comunes de estas zonas. Con esta información, se podría profundizar en el análisis de las
+zonas más afectadas y así obtener una mejor comprensión del problema del acoso en la Ciudad de México.
