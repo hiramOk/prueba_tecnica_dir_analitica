@@ -1,5 +1,5 @@
 # prueba_tecnica_dir_analitica
-Pregunta Análisis y reflexión
+#Pregunta Análisis y reflexión
 El acoso es un problema latente en todo México, y CDMX no es la excepción. 
 Este tipo de violencia se manifiesta en diferentes lugares y 
 desafortunadamente, el acoso es un problema que a menudo no se reporta, lo que dificulta la comprensión
