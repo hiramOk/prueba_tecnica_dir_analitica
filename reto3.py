@@ -3,6 +3,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
+#metodo post
 @app.route('/post_csv', methods=['POST'])
 def post_csv():
   if 'file' not in request.files:
@@ -14,6 +15,7 @@ def post_csv():
   data = pd.read_csv(file)
   return data.to_json()
 
+#metodo get para csv
 @app.route('/get_csv', methods=['POST'])
 def get_csv():
   if 'file' not in request.files:
@@ -25,6 +27,7 @@ def get_csv():
   data = pd.read_csv(file)
   return {'csv': data.to_string()}
 
+# metodo get para json
 @app.route('/get_json', methods=['POST'])
 def get_json():
   if 'file' not in request.files:
